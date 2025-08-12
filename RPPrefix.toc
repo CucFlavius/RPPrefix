@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 110200
 ## Title: RP Prefix
 ## Notes: A small addon allowing role-players to add prefixes to their /s
 ## Author: Zee (Songzee - Argent Dawn EU)

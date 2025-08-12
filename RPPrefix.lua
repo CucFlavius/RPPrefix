@@ -28,10 +28,9 @@ function RP.Hook_SendChatMessage(msg, chatType, language, channel)
 end
 
 function RP.Toggle()
-
 	if RP.Hooked == false then
-		RP.SavedSendChatMessage = SendChatMessage;
-		SendChatMessage = RP.Hook_SendChatMessage;
+		RP.SavedSendChatMessage = C_ChatInfo.SendChatMessage;
+		C_ChatInfo.SendChatMessage = RP.Hook_SendChatMessage;
 		RP.Hooked = true;
 	end
 
