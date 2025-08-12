@@ -1,0 +1,14 @@
+## Interface: 80300
+## Title: RP Prefix
+## Notes: A small addon allowing role-players to add prefixes to their /s
+## Author: Zee (Songzee - Argent Dawn EU)
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: RPPrefix_Settings
+## X-eMail: cucflavius@gmail.com
+## X-Website: none
+## X-License: GPL
+## Version: 1.02
+
+Button.lua
+RPPrefix.lua

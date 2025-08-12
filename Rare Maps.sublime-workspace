@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"world",
+				"worldY"
+			],
+			[
+				"OnMou",
+				"OnMouseDown\t\"scriptType\""
+			],
+			[
+				"Tab",
+				"TabPanel"
+			],
+			[
+				"Tit",
+				"TitleBar"
+			],
+			[
+				"Windo",
+				"WindowFrame"
+			],
+			[
+				"Title",
+				"TitleBarHeight"
+			],
+			[
+				"size",
+				"sizeY"
+			],
+			[
+				"icon",
+				"iconSize"
+			],
+			[
+				"UI",
+				"UIParent\tframe"
+			],
+			[
+				"Wind",
+				"WindowFrame"
+			],
+			[
+				"parent",
+				"parentPoint"
+			],
+			[
+				"Win",
+				"WindowAPI"
+			],
+			[
+				"ava",
+				"availableIcons"
+			],
+			[
+				"available",
+				"availableIcons"
+			],
+			[
+				"World",
+				"WorldMap"
+			],
+			[
+				"CreateF",
+				"CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])"
+			],
+			[
+				"Register",
+				"RegisterForDrag\t(...)"
+			],
+			[
+				"MA",
+				"MainFrame"
+			],
+			[
+				"Ena",
+				"EnableMouse\t(enable)"
+			],
+			[
+				"Ma",
+				"MainFrame"
+			],
+			[
+				"M",
+				"MainFrame"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/World of Warcraft/Interface/AddOns/RP-Prefix/RP Prefix.toc",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/HereBeDragons/HereBeDragons-2.0.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/HereBeDragons/HereBeDragons-Pins-2.0.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Data/Pathfinder/Pathfinder.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/ZeeGuides.toc",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Data/Pathfinder/WorldMap.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/LibGraph-2.0/LibGraph-2.0.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Data/Pathfinder/Minimap.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/HereBeDragons/HereBeDragons-1.0.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/[Dev]/GuideMaker_UI.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/[Dev]/GuideMaker.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/ZeeGuides.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/WindowAPI/ScrollList.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/WindowAPI/Button.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/WindowAPI/Tab.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/WindowAPI/Window.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Draw/Draw.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/HereBeDragons/HereBeDragons-Pins-1.0.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/LibFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/WindowAPI/WindowAPIFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Data/Pathfinder/PathfinderFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Libs/HereBeDragons/HereBeDragons.toc",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/[Dev]/DevFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Locale/LocalizationFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/AddonFiles.XML",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/[Dev]/Dev.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/ZeeGuides.TOC",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Zee.lua",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/Data/DataFiles.xml",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/ZeeGuides.LUA",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/[Dev]/GuideMaker",
+		"/G/World of Warcraft/Interface/AddOns/ZeeGuides/ZeeGuides.sln",
+		"/G/World of Warcraft/Interface/AddOns/ZEngine/Triangle2D.lua"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/WoWDevelopment/WoW Global Finder/WoW Global Finder.sublime-build",
+	"project": "Rare Maps.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
