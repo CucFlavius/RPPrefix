@@ -8,7 +8,7 @@
 ## X-eMail: cucflavius@gmail.com
 ## X-Website: none
 ## X-License: GPL
-## Version: 1.02
+## Version: 1.04
 
 Button.lua
 RPPrefix.lua
